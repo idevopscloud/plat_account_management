@@ -1,0 +1,2 @@
+ForbiddenException: "不允许操作"
+destroy_self_not_allow: 不允许删除自己
